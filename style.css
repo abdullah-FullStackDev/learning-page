@@ -1,18 +1,4 @@
-.box-1{
-    background-color: red;
-}
-.box-2{
-    background-color: yellow;
-}
-.box-3{
-    background-color: violet;
-}
-.container{
+
+.container-fluid{
     border: 5px solid black;
-}
-.row{
-    border: 3px solid blue;
-}
-.col{
-    border: 3px solid green;
 }
