@@ -22,9 +22,12 @@ body{
 .pp{
     padding: 5px;
 }
-.cc{
-    display: block;
-}
 .d-flex{
     display: flex;
+}
+.m-auto{
+    margin: auto;
+}
+.cc{
+    width: 700px;
 }
