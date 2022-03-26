@@ -22,3 +22,9 @@ body{
 .pp{
     padding: 5px;
 }
+.cc{
+    display: block;
+}
+.d-flex{
+    display: flex;
+}
