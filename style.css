@@ -52,3 +52,6 @@ body{
   .bb{
       font-weight: 500;
   }
+  .col-xl-12{
+     border: 1px solid black;
+  }
